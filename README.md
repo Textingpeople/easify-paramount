@@ -1,6 +1,6 @@
-# Try Paramount Capital
+# Gulf Coast Capital
 
-Investment advisory website for Try Paramount Capital, built with Next.js.
+Investment advisory website for Gulf Coast Capital, built with Next.js.
 
 ## Getting Started
 
